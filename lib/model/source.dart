@@ -7,8 +7,7 @@ class Source {
     return [
       Source(id: 'CNN', name: 'CNN',),
       Source(id: 'BBC', name: 'BBC'),
-      Source(id: 'ALJAZERA', name: 'ALJAZERA'),
-      Source(id: 'BBC', name: 'BBC'),
+
 
   }
 }
